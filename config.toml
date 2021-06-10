@@ -1,4 +1,4 @@
-baseURL = "https://route712.com/"
+baseURL = "https://blog.route712.com/"
 publishDir = "docs"
 languageCode = "en"
 defaultContentLanguage = "en"
