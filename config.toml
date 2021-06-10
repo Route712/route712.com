@@ -1,4 +1,5 @@
 baseURL = "https://route712.com/"
+publishDir = "docs"
 languageCode = "en"
 defaultContentLanguage = "en"
 title = "ZO ZO"                        # site title                     # 网站标题
